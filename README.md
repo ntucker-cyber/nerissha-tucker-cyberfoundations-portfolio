@@ -1,7 +1,7 @@
 # CyberVisionaries Institute (CVI) — Cyber Foundations Student Portfolio
 
 **New here? Read [START-HERE.md](start%20here/START-HERE.md) first — it walks you through your very first commit, step by step.**
-
+I've been insurance for 18 years but now I want to transition to Cybersecurity. I've always been somewhat of a geek and interested in technology. That interest, along with my natural curiosity and background in Risk Management is what drew me to Cybersecurity. My goal is to learn the different areas of Cybersecurity more in depth, to pinpoint where my interest truly lies and to gain some hands on practice.  
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
 This is your working portfolio — **not the instructor repository.** All lesson content and lab instructions live here, in your own repo — you never need to pull anything from an instructor repo.
